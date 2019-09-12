@@ -1,2 +1,3 @@
 # Weather-App
-A VUE js API based Weather app ( + real time Map view of loacations)
+A VUE js + Bootstrap Weather app (uses API + real time Map view of loacations)
+API from https://darksky.net/dev
