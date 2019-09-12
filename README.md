@@ -1,2 +1,2 @@
 # Weather-App
-An API based Weather app ( + real time Map view of loacations)
+A VUE js API based Weather app ( + real time Map view of loacations)
